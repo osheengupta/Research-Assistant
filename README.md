@@ -2,7 +2,7 @@
 
 A powerful research assistant tool that helps analyze multiple news articles simultaneously using artificial intelligence. Powered by Claude 3 AI, this tool allows you to extract insights and ask questions about content using natural language.
 
-![Demo Screenshot](/img/screenshot.png)
+![Demo Screenshot](/img/screenshots.png)
 
 ## Features
 
